@@ -23,6 +23,12 @@ p {
 
 }
 
+#quote-holder {
+  width: 400px;
+  margin-right: auto; margin-left: auto;
+  margin: auto;
+}
+
 #get-quote {
   text-align:center;
   font-family: verdana;
